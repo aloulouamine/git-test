@@ -1,2 +1,4 @@
 fonction multiplication : 
 z= x*y 
+function addition : 
+x = a + b
