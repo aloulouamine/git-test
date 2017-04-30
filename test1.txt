@@ -1,2 +1,2 @@
-lundi, le 24 avril 2017 
-21:46
+function addition : 
+x = a + b
